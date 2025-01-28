@@ -1,3 +1,9 @@
+Hello, I am Douglas.
+
+<a href="https://www.linkedin.com/in/douglasdarrell/" target="_blank" rel="noopener noreferrer">Visit My LinkedIn</a>
+
+
+
 Home Cybersecurity Lab: A Virtual Network Simulation Environment
 
 This cybersecurity home lab is a versatile and dynamic environment designed to simulate a virtualized network for practicing and mastering essential cybersecurity skills. Tailored for both beginners and advanced learners, the lab includes preinstalled tools such as kali Linux, Metasploit, and Nmap, all configured to create a secure and user-friendly setup. The lab features multiple interconnected virtual machines (VMs) that emulate real-world network infrastructures, offering a practical platform to explore cybersecurity tasks such as simulating network attacks, implementing defense strategies, and analyzing traffic, Its modular design provides the flexibility to expand the environment by adding additional machines, configuring new services,  and experimenting with a variety of tools and techniques, This project is an ideal foundation for hands-on learning, skill development, exploring the evolving landscape of cybersecurity, and demonstrates my experience in setting up virtualized environments using ISO files for Kali Linux and Ubuntu.
